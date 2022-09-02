@@ -6,7 +6,6 @@
 // N = 8 -> "8, 7, 6, 5, 4, 3, 2, 1"
 
 
-Console.Clear();
 int n = InputNumbers("Введите n: ");
 int count = 2;
 PrintNumber(n, count);
